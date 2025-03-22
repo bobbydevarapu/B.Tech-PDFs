@@ -1,0 +1,29 @@
+M3 important questions
+
+Unit-1
+-greens,stokes,gauss divergence theorem(give high priority and do some problems in it)
+-directional derivative
+-scalar potential
+
+Unit-2
+-convolution theorem(give high priority in this chapter)
+-dirac delta function
+-solving ordinary differential equations
+
+Unit-3
+-comparision between Fourier series and Fourier transforms
+-dirichlets condition
+-half range sine and cosine series
+-fourier sine and cosine integrals
+-fourier integral theorem
+
+Unit-4
+-elimination of arbitary constants and functions
+-PDE (basic information)
+
+Unit-5
+-two dimensional Laplace equation.
+-f(D,D1)Z=e^(ax+by)
+-f(D,D1)Z=sin(ax+by) or cos(ax+by)
+
+Share to your friends
